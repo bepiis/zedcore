@@ -1,0 +1,2 @@
+# zedcore
+zedcore
