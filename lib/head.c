@@ -117,7 +117,6 @@ char *to_readable(obj_header * head){
     size_t ret_len = 0;
     char *ret, *s_obj_size;
 
-    const map_entry *htype_entry, *ctype_entry;
     map_entry *run, *block;
 
     const int sep_len = 2;

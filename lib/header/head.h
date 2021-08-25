@@ -24,6 +24,7 @@
 //obj_flags
 #define OBJ_SIZE_D 0xC1
 #define OBJ_NAME_D 0xC2
+#define OBJ_HASH_D 0xC3
 
 //ctypes
 #define SEND_D 0xD0
